@@ -1,1 +1,16 @@
-
+<xml>
+  <BugReport>
+    <id>1</id>
+    <title>What? Where? When?</title>
+    <description>Some description</description>
+    <Steps>
+      <Step_1>step 1</Step_1>
+      <Step_2>step 2</Step_2>
+      <Step_3>step 1</Step_3>
+    </Steps>
+    <ExpectedResult>Some text</ExpectedResult>
+    <ActualResult>Some text</ActualResult>
+    <Severity>Blocker</Severity>
+    <Priority>High</Priority>
+    <Environment>Android 4.0</Environment>
+  </BugReport>
